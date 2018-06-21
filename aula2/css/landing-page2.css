@@ -1,0 +1,16 @@
+header.banner-home{
+  background: url("../img/img-MastHead.png") no-repeat center center;
+  padding-top: 13%;
+  padding-bottom: 51%;
+
+}
+
+a{
+	color: #ccc;
+	 font-size: 12px; 
+}
+
+a:hover{
+	color: #ccc;
+	font-size: 14px; 
+}
